@@ -1,3 +1,5 @@
 1) 17 Oct, 2023 - Registry product count 0 fixed - in 'Processing' and 'Issued' pages count attributes were showing nils issue
 
 2) 17 Oct, 2023 - Admin changes - In Admin Panel not all permissions were given to users issue
+
+3) 18 Oct, 2023 - Admin permissions major change - In Admin Panel non admin users' privilieges were cut off in all tabs
