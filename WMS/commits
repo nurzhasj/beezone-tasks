@@ -7,3 +7,5 @@
 4) 19 Oct, 2023 - Act of completed work generation setup
 
 5) 20 Oct, 2023 - ACW new structure - Optimizing acw generation & refactoring code to meet SOLID, DRY, KISS principles
+
+6) 20 Oct, 2023 - Fix new ACW structure - Bug when assuming that number of records in items array will be identical to message_items array in UserService
