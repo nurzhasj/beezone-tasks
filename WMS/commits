@@ -9,3 +9,5 @@
 5) 20 Oct, 2023 - ACW new structure - Optimizing acw generation & refactoring code to meet SOLID, DRY, KISS principles
 
 6) 20 Oct, 2023 - Fix new ACW structure - Bug when assuming that number of records in items array will be identical to message_items array in UserService
+
+8) 24 Oct, 2023 - product_id null issue resolved - From BTB messages table's - items column comes in two structure, and the system is not compatible with that
