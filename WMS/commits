@@ -13,3 +13,5 @@
 7) 24 Oct, 2023 - product_id null issue resolved - From BTB messages table's - items column comes in two structure, and the system is not compatible with that
 
 8) 26 Oct, 2023 - OrderProductResource casting to int some values - after update of product_id null issue, items id changed to String
+
+9) 26 Oct, 2023 - UserOrderRepo change isset and int casting add after product_id null - in UserOrderRepository I have added isset() check for $orderItem['product_id'] and casted (int) $orderItem['product_id'] and (int) $orderItem['sku_code'] 
