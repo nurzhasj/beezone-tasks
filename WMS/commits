@@ -10,4 +10,6 @@
 
 6) 20 Oct, 2023 - Fix new ACW structure - Bug when assuming that number of records in items array will be identical to message_items array in UserService
 
-8) 24 Oct, 2023 - product_id null issue resolved - From BTB messages table's - items column comes in two structure, and the system is not compatible with that
+7) 24 Oct, 2023 - product_id null issue resolved - From BTB messages table's - items column comes in two structure, and the system is not compatible with that
+
+8) 26 Oct, 2023 - OrderProductResource casting to int some values - after update of product_id null issue, items id changed to String
