@@ -17,3 +17,5 @@
 9) 26 Oct, 2023 - UserOrderRepo change isset and int casting add after product_id null - in UserOrderRepository I have added isset() check for $orderItem['product_id'] and casted (int) $orderItem['product_id'] and (int) $orderItem['sku_code'] 
 
 10) 30 Oct, 2023 - Factual remainder of blocks admin - In admin panel beezone_product route changes
+
+11) 31 Oct, 2023 - Factual remaining fix - Fixing counter
