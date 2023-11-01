@@ -21,3 +21,5 @@
 11) 31 Oct, 2023 - Factual remaining fix - Fixing counter
 
 12) 31 Oct, 2023 - Registries search - Adding search filter by id of registries
+
+13) 1 Nov, 2023 - Search feat for registries - Adding search funcionality to api/registries?register_id=$search
