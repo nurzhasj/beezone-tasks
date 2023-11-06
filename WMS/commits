@@ -23,3 +23,5 @@
 12) 31 Oct, 2023 - Registries search - Adding search filter by id of registries
 
 13) 1 Nov, 2023 - Search feat for registries - Adding search funcionality to api/registries?register_id=$search
+
+14) 6 Nov, 2023 - Hot fix recipient creation - in front side all recipient parameters were disabled, so that backend side neeeded change
