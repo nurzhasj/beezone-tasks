@@ -29,3 +29,5 @@
 15) 7 Nov, 2023 - Adding invoice_number column to Recipient and search to it - Searching only by invoice_number, not by registry and new_invoice columns
 
 16) 14 Nov, 2023 - Photo Upload Feature Test - when issuing product photo should be uploaded
+
+17) 20 Nov, 2023 - Issued invoices error - After photo upload feature, the structure of images columns changed a little so it didn't auto converted to array when accessing, I used json_decode() to resolve this error
