@@ -33,3 +33,5 @@
 17) 20 Nov, 2023 - Issued invoices error - After photo upload feature, the structure of images columns changed a little so it didn't auto converted to array when accessing, I used json_decode() to resolve this error
 
 18) 20 Nov, 2023 - ACW count fix - Counting issued invoices and generating acw was wrong, shortly it was partially correct. Because MamaZnaet brands' attribute names were changing, little fixe solved problem
+
+19) 20 Dec, 2023 - Big feature grouping invoices, created new system.
